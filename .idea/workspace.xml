@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca009e4d-50eb-4081-9a48-90fa48113ac3" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -53,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666749034647</updated>
-      <workItem from="1666749036381" duration="2737000" />
+      <workItem from="1666749036381" duration="3076000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交、">
       <created>1666749152345</created>
@@ -83,7 +83,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666749331256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第五次提交">
+      <created>1666767048683</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666767048683</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第六次提交">
+      <created>1666767066222</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666767066222</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第七次提交">
+      <created>1666767315191</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666767315191</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +126,9 @@
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交" />
     <MESSAGE value="第四次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第四次提交" />
+    <MESSAGE value="第五次提交" />
+    <MESSAGE value="第六次提交" />
+    <MESSAGE value="第七次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第七次提交" />
   </component>
 </project>
