@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca009e4d-50eb-4081-9a48-90fa48113ac3" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
       <updated>1666749034647</updated>
       <workItem from="1666749036381" duration="3680000" />
       <workItem from="1666883427486" duration="146000" />
-      <workItem from="1666883608096" duration="789000" />
+      <workItem from="1666883608096" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交、">
       <created>1666749152345</created>
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666767383099</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="清空">
+      <created>1666884688398</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666884688398</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +147,7 @@
     <MESSAGE value="第六次提交" />
     <MESSAGE value="第七次提交" />
     <MESSAGE value="第八次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第八次提交" />
+    <MESSAGE value="清空" />
+    <option name="LAST_COMMIT_MESSAGE" value="清空" />
   </component>
 </project>
